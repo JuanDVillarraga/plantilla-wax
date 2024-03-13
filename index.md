@@ -9,11 +9,7 @@ banner:
   height: '500px'
 ---
 
-Plantilla para colecciones en Wax: [Documentación](https://minicomp.github.io/wiki/#/wax/).
+Esta es una colección de carátulas de objetos culturales como series de televisión, películas y videojuegos .......
 
-Las imágenes usadas en esta pltanilla son de Dominio Público y provienen del archivo digital del [RijksMuseum](https://www.rijksmuseum.nl/nl)
-
-### Busca la colección
-
-#### Por autor
-{% include collection_gallery.html facet_by='label' collection='america' %}
+Los metadatos de la colección se construyeron siguiendo el siguiente protocolo
+-director: persona que dirigio la serie de tv o película.... 

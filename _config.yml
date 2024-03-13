@@ -17,9 +17,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Plantilla Wax'
-description:      'Colecciones Digitales'
-url:              'https://srsergiorodriguez.github.io' # Reemplazar por cuenta de github propia
+title:            'Productos culturales del habitar domestico colectivo'
+description:      'Una colección de imágenes de carátulas de productos culturales del habitar domestico colectivo'
+url:              'https://JuanDVillarraga.github.io' # Reemplazar por cuenta de github propia
 baseurl:          '/plantilla-wax' # Reemplazar por nombre del repositorio
 copyright:        'Derechos reservados, 2024'
 logo:             '/assets/logo.png'
